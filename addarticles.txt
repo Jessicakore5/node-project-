@@ -1,0 +1,14 @@
+add articles
+// await client.query(`
+  //      INSERT INTO cikkek (cikkId,cikkCim,cikkDatum,szerzoId,szoveg,kategoriaid)
+  //      VALUES (DEFAULT,'Optimus-Gen 2','2024-10-10',3,'Optimus (named after the Transformers character with the same name), also known as Tesla Bot',1),
+  //     (DEFAULT,'Hazai etelek','2014-11-30',1,'Ezert jo a hazai etel..',4),
+  //      (DEFAULT,'Hurricane Katrina','2020-04-10',2,'Hurricane Katrina is one of the deadliest ',3),
+  //      (DEFAULT,'Hurricane Milton',NOW(),2,'Two tornadoes in hurricane Milton cause intense damage',3)`)
+
+addcategory
+ // client.query(`INSERT INTO kategoriak
+  //   VALUES(DEFAULT,'Technologiak'),
+  //   (DEFAULT,'Kutyaful'),
+  //   (DEFAULT,'Termeszeti Katasztrofak'),
+  //       (DEFAULT,'Gasztronomia')`)
